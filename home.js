@@ -239,8 +239,6 @@
 //       console.log(task(4));
 
 // task8
-function test(a,b){
 
-}
 
      
